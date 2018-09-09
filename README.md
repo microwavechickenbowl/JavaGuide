@@ -5,40 +5,40 @@
 | [Java](#coffee-Java)  |  [Data Structures and Algorithms](#open_file_folder-数据结构与算法)|[Computer network and data communication](#computer-计算机网络与数据通信) | [operating system](#iphone-操作系统)| [Mainstream framework](#pencil2-主流框架)|  [data storage](#floppy_disk-数据存储)|[Architecture](#punch-架构)|  [Interview essential](#musical_note-面试必备)| [other](#art-其他)| [Description](#envelope-该开源文档一些说明)|
 
 ## :coffee: Java
--   ### Java/J2EE 基础
-    - [Java 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
-    - [J2EE 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
--   ### Java 集合框架
-    - [这几道Java集合框架面试题几乎必问](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md)
-    - [Java 集合框架常见面试题总结](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java集合框架常见面试题总结.md)
+-   ### Java/J2EE foundation
+    - [Java basics review](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
+    - [J2EE basics review](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
+-   ### Java collection framework
+    - [Most asked Java collection framework interview questions](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md)
+    - [Java collection framework common interview questions summary](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java集合框架常见面试题总结.md)
     - [ArrayList 源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/ArrayList.md)    
     - [LinkedList 源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/LinkedList.md)   
     - [HashMap(JDK1.8)源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/HashMap.md)  
    
--  ### Java 多线程
-   - [多线程系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/多线程系列.md)
-   - [值得立马保存的 synchronized 关键字总结](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/synchronized.md)
+-  ### Java multithreading
+   - [Multi-threaded series](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/多线程系列.md)
+   - [Summary of synchronized keywords worth saving immediately](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/synchronized.md)
 
 - ### Java IO 与 NIO
-  - [Java IO 与 NIO系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
+  - [Java IO and NIO series articles](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
 
--  ### Java虚拟机（jvm）
-   - [可能是把Java内存区域讲的最清楚的一篇文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/可能是把Java内存区域讲的最清楚的一篇文章.md)
-   - [搞定JVM垃圾回收就是这么简单](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/搞定JVM垃圾回收就是这么简单.md)
-   - [Java虚拟机（jvm）学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java虚拟机（jvm）.md)
+-  ### Java virtual machine（jvm）
+   - [most clear article on the Java memory area](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/可能是把Java内存区域讲的最清楚的一篇文章.md)
+   - [Getting JVM garbage collection is as simple as that.](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/搞定JVM垃圾回收就是这么简单.md)
+   - [Java虚拟机（jvm）learning and interview](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java虚拟机（jvm）.md)
 - ### 设计模式
-   - [设计模式系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/设计模式.md)
+   - [Design pattern series](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/设计模式.md)
 
-## :open_file_folder: 数据结构与算法
+## :open_file_folder: Data Structures and Algorithms
    
--  ### 数据结构
-   - [数据结构知识学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/数据结构.md)
+-  ### data structure
+   - [Data structure knowledge learning and interview](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/数据结构.md)
 
 
--  ### 算法
-   - [算法学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/算法.md)
+-  ### algorithm
+   - [Algorithm learning and interview](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/算法.md)
    
-   - [常见安全算法（MD5、SHA1、Base64等等）总结](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/常见安全算法（MD5、SHA1、Base64等等）总结.md)
+   - [Common security algorithms（MD5、SHA1、Base64等等）总结](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/常见安全算法（MD5、SHA1、Base64等等）总结.md)
 
 
 ## :computer: 计算机网络与数据通信
