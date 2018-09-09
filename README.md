@@ -2,7 +2,7 @@
 
 | Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :----:|
-| [Java](#coffee-Java)  |  [数据结构与算法](#open_file_folder-数据结构与算法)|[计算机网络与数据通信](#computer-计算机网络与数据通信) | [操作系统](#iphone-操作系统)| [主流框架](#pencil2-主流框架)|  [数据存储](#floppy_disk-数据存储)|[架构](#punch-架构)|  [面试必备](#musical_note-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
+| [Java](#coffee-Java)  |  [Data Structures and Algorithms](#open_file_folder-数据结构与算法)|[Computer network and data communication](#computer-计算机网络与数据通信) | [operating system](#iphone-操作系统)| [Mainstream framework](#pencil2-主流框架)|  [data storage](#floppy_disk-数据存储)|[Architecture](#punch-架构)|  [Interview essential](#musical_note-面试必备)| [other](#art-其他)| [Description](#envelope-该开源文档一些说明)|
 
 ## :coffee: Java
 -   ### Java/J2EE 基础
