@@ -41,68 +41,68 @@
    - [Common security algorithms（MD5、SHA1、Base64等等）总结](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/常见安全算法（MD5、SHA1、Base64等等）总结.md)
 
 
-## :computer: 计算机网络与数据通信
-- ### 网络相关
-   - [计算机网络常见面试题](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/计算机网络.md)
-   - [计算机网络基础知识总结](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/干货：计算机网络知识总结.md)
+## :computer: Computer network and data communication
+- ### Network related
+   - [Computer network common interview questions](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/计算机网络.md)
+   - [Summary of computer network basics](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/干货：计算机网络知识总结.md)
   
-- ### 数据通信(RESTful、RPC、消息队列)
-  - [数据通信(RESTful、RPC、消息队列)相关知识点总结](https://github.com/Snailclimb/Java-Guide/blob/master/计算机网络与数据通信/数据通信(RESTful、RPC、消息队列).md)
+- ### 数据通信(RESTful、RPC、message queue)
+  - [数据通信(RESTful、RPC、消息队列)Summary](https://github.com/Snailclimb/Java-Guide/blob/master/计算机网络与数据通信/数据通信(RESTful、RPC、消息队列).md)
   
 
-## :iphone: 操作系统
+## :iphone: operating system
 
 - ### Linux相关
-  - [后端程序员必备的 Linux 基础知识](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
+  - [Essential Linux knowledge for back-end programmers](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
 
-## :pencil2: 主流框架
+## :pencil2: Mainstream framework
 
 - ### Spring相关
-  - [Spring 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/Spring学习与面试.md)
+  - [Spring learning and interview](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/Spring学习与面试.md)
 
-## :floppy_disk: 数据存储
+## :floppy_disk: data storage
 - ### MySQL
   - [MySQL 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/MySQL.md)
 - ### Redis
   - [Redis 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/Redis.md)
 
-## :punch: 架构
-- ### 分布式相关
+## :punch: Architecture
+- ### Distributed correlation
     - [分布式学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/架构/分布式.md)
 
-## :musical_note: 面试必备
+## :musical_note: Interview essential
 
-- ### 面试必备知识点
-    - [面试必备之乐观锁与悲观锁](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
-- ### 最最最常见的Java面试题总结
-   这里会分享一些出现频率极其极其高的面试题，初定周更一篇，什么时候更完什么时候停止。
+- ### Interview essential knowledge points
+    - [Optimistic locks and pessimistic locks for interviews](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
+- ### Summary of the most common Java interview questions
+   Here, I will share some interview questions that are extremely high in frequency. I will post more on the first week and when will I stop.
    
-    - [第一周（2018-8-7）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第一周（2018-8-7）.md) (值传递和引用传递、==与equals、 hashCode与equals)
-    - [第二周（2018-8-13）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
-    - [第三周（2018-08-22）](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
-    - [第四周(2018-8-30).md](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
+    - [First week（2018-8-7）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第一周（2018-8-7）.md) (值传递和引用传递、==与equals、 hashCode与equals)
+    - [the second week（2018-8-13）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
+    - [The third week（2018-08-22）](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
+    - [the fourth week(2018-8-30).md](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
 - ### 程序员如何写简历
-    - [程序员的简历之道](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
-    - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
+    - [Programmer's resume](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
+    - [Teach you to write a high quality resume with Markdown](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
     
-## :art: 其他  
+## :art: other  
 
-- ### 个人书单推荐
-    - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
+- ### Personal book recommendation
+    - [Personal reading list](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
 
-- ### 技术方向选择
+- ### Technical direction selection
     - [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md)  
     
 ***
 
-> # :envelope: 该开源文档一些说明
+> # :envelope: Some instructions for the open source documentation
 
-## 介绍
-该文档主要是笔主在学习Java的过程中的一些学习笔记，但是为了能够涉及到大部分后端学习所需的技术知识点我也会偶尔引用一些别人的优秀文章的链接。
-该文档涉及的主要内容包括： Java、 数据结构与算法、计算机网络与数据通信、 操作系统、主流框架、数据存储、架构、面试必备知识点等等。相信不论你是前端还是后端都能在这份文档中收获到东西。
-## 关于转载
+## Introduction
+This document is mainly some of the study notes in the process of learning Java, but in order to be able to cover most of the technical knowledge required for back-end learning, I will occasionally cite links to other excellent articles.The main contents covered in this document include: Java, data structure and algorithm, computer network and data communication, operating system, mainstream framework, data storage, architecture, necessary knowledge points for interviews, and so on.I believe that whether you are front-end or back-end, you can get something in this document.
+## About reprinting
 
 **如果需要引用到本仓库的一些东西，必须注明转载地址！！！毕竟大多都是手敲的，或者引用的是我的原创文章，希望大家尊重一下作者的劳动**:smiley::smiley::smiley:！
+
 
 ## 如何对该开源文档进行贡献
 
