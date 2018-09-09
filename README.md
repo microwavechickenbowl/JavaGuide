@@ -1,4 +1,4 @@
-> **Java学习指南：** 一份涵盖大部分Java程序员所需要掌握的核心知识，正在一步一步慢慢完善，期待您的参与。
+> **Java study guide：** 一It covers the core knowledge that most Java programmers need to master, and is gradually improving step by step, looking forward to your participation.
 
 | Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :----:|
