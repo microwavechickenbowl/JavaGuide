@@ -101,17 +101,18 @@
 This document is mainly some of the study notes in the process of learning Java, but in order to be able to cover most of the technical knowledge required for back-end learning, I will occasionally cite links to other excellent articles.The main contents covered in this document include: Java, data structure and algorithm, computer network and data communication, operating system, mainstream framework, data storage, architecture, necessary knowledge points for interviews, and so on.I believe that whether you are front-end or back-end, you can get something in this document.
 ## About reprinting
 
-**如果需要引用到本仓库的一些东西，必须注明转载地址！！！毕竟大多都是手敲的，或者引用的是我的原创文章，希望大家尊重一下作者的劳动**:smiley::smiley::smiley:！
+**如果需要引用到本仓库的一些东西，必须注明转载地址！！！毕竟大多都是手敲的，或者引用的是我的原创文章，希望大家尊重一下作者的劳动**:smiley::smiley::smiley:！(basic transation: if you use anything from here you must link, cite your soure and give the authors credit!!! please respect the hard work of author.)
 
 
-## 如何对该开源文档进行贡献
+## How to contribute to this open source document
 
-1. 笔记内容大多是手敲，所以难免会有笔误。
-2. 你对其他知识点的补充。
+1. 笔记内容大多是手敲，所以难免会有笔误。(Most of the notes are hand-knocked, so there will inevitably be a typo.)
+2. 你对其他知识点的补充。(Your supplement to other knowledge points).
 
-## 为什么要做这个开源文档？
+## Why do you want to do this open source document？
 
-在我们学习Java的时候，很多人会面临我不知道继续学什么或者面试会问什么的尴尬情况（我本人之前就很迷茫:smile:）。所以，我决定通过这个开源平台来帮助一些有需要的人，通过下面的内容，你会掌握系统的Java学习以及面试的相关知识。本来是想通过Gitbook的形式来制作的，后来想了想觉得可能有点大题小做 :grin: 。另外，我自己一个人的力量毕竟有限，希望各位有想法的朋友可以提issue。
+When we are learning Java, many people will face the embarrassing situation that I don't know what to continue or what the interview will ask (I was confused before: smile:). Therefore, I decided to use this open source platform to help some people in need, through the following content, you will master the system of Java learning and interview knowledge.
+Originally I wanted to make it through the form of Gitbook, but later I thought it might be a bit of a big problem: grin: .In addition, my own strength is limited, I hope that friends who have ideas can mention issues.
 
 ## 最后
 
