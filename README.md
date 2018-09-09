@@ -114,12 +114,13 @@ This document is mainly some of the study notes in the process of learning Java,
 When we are learning Java, many people will face the embarrassing situation that I don't know what to continue or what the interview will ask (I was confused before: smile:). Therefore, I decided to use this open source platform to help some people in need, through the following content, you will master the system of Java learning and interview knowledge.
 Originally I wanted to make it through the form of Gitbook, but later I thought it might be a bit of a big problem: grin: .In addition, my own strength is limited, I hope that friends who have ideas can mention issues.
 
-## 最后
+## At last
 
-本人会利用业余时间一直更新下去，目前还有很多地方不完善，一些知识点我会原创总结，还有一些知识点如果说网上有比较好的文章了，我会把这些文章加入进去。您也可以关注我的微信公众号：“Java面试通关手册”，我会在这里分享一些自己的原创文章。 另外该文档格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
+I will use my spare time to keep up to date. There are still many places that are not perfect. Some knowledge points will be summed up by me. There are some knowledge points. If there are better articles on the Internet, I will add them. You can also follow my WeChat public account: "Java Interview Customs Manual", I will share some of my original articles here.
+ Also the document format reference：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，Emoticon material from：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
 
 
-**你若盛开，清风自来。 欢迎关注我的微信公众号：“Java面试通关手册”，一个有温度的微信公众号。公众号有大量资料，回复关键字“1”你可能看到想要的东西哦！：**
+**If you are in full bloom, the breeze comes. Welcome to my WeChat public account: "Java Interview Customs Manual", a WeChat public number with temperature. The public number has a lot of information, reply to the keyword "1" you may see what you want!：**
 
 ![](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-8-17/29079091.jpg)
